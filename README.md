@@ -1,5 +1,5 @@
 # Projecte Info 2
-Marc Nonlleó
+Marc Monlleó
 Fèlix Nicolas
 Behram Latif
 David Gress
