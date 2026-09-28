@@ -13,7 +13,7 @@ namespace FlightLib
 
         string id; // identificador
         Position currentPosition; // posicion actual
-        Position finalPosition; // posicion final
+        Position finalPosition; // posicion fin
         double velocidad;
 
         // Constructures
