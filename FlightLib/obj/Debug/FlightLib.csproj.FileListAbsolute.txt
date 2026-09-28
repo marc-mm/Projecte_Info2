@@ -1,0 +1,6 @@
+D:\Coses Windows de C\Downloads (Nou)\1-PrimerProyecto\PrimerProyecto\FlightLib\bin\Debug\FlightLib.dll
+D:\Coses Windows de C\Downloads (Nou)\1-PrimerProyecto\PrimerProyecto\FlightLib\bin\Debug\FlightLib.pdb
+D:\Coses Windows de C\Downloads (Nou)\1-PrimerProyecto\PrimerProyecto\FlightLib\obj\Debug\FlightLib.csproj.AssemblyReference.cache
+D:\Coses Windows de C\Downloads (Nou)\1-PrimerProyecto\PrimerProyecto\FlightLib\obj\Debug\FlightLib.csproj.CoreCompileInputs.cache
+D:\Coses Windows de C\Downloads (Nou)\1-PrimerProyecto\PrimerProyecto\FlightLib\obj\Debug\FlightLib.dll
+D:\Coses Windows de C\Downloads (Nou)\1-PrimerProyecto\PrimerProyecto\FlightLib\obj\Debug\FlightLib.pdb
